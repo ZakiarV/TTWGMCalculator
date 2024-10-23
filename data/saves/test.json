@@ -1,0 +1,237 @@
+{
+    "settings": {
+        "version": {
+            "major": 0,
+            "minor": 0,
+            "patch": 0,
+            "preRelease": "alpha",
+            "build": 0
+        }
+    },
+    "resources": {
+        "oil": 0,
+        "steel": 0,
+        "electronics": 0,
+        "textiles": 0,
+        "ammunition": 0,
+        "food": 0
+    },
+    "buildings": {
+        "factories": {
+            "refinery": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "foundry": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "electronics_factory": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "textile_factory": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "ammunition_factory": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "farm": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "vehicle_factory": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "infantry_training_camp": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "dry_dock": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            },
+            "plane_factory": {
+                "construction_cost": 0,
+                "production": 0,
+                "number_of_factories": 0
+            }
+        },
+        "military_buildings": {
+            "supply_depot": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "railroad": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "station": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "naval_base": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "airfield": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "naval_shipyard": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "cop": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "fob": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "mob": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "headquarters": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            },
+            "training_camp": {
+                "construction_cost": 0,
+                "number_of_buildings": 0
+            }
+        }
+    },
+    "units": {
+        "ground_forces": {
+            "infantry": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "tank": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "artillery": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "mobile_sam": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "mobile_radar": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "special_forces": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "recon": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "mechanized_transport": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "engineering_corps": {
+                "cost": {},
+                "maintenance_cost": {}
+            }
+        },
+        "air_force": {
+            "radar_site": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "fighter": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "stealth_fighter": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "attack_bomber": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "heavy_bomber": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "stealth_attack_bomber": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "stealth_heavy_bomber": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "transport_plane": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "airborne_warning_and_control_system": {
+                "cost": {},
+                "maintenance_cost": {}
+            }
+        },
+        "navy": {
+            "aircraft_carrier": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "destroyer": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "attack_submarine": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "missile_submarine": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "cruiser": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "amphibious_assault_ship": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "supply_ship": {
+                "cost": {},
+                "maintenance_cost": {}
+            }
+        },
+        "logistics": {
+            "trains": {
+                "cost": {},
+                "maintenance_cost": {}
+            },
+            "trucks": {
+                "cost": {},
+                "maintenance_cost": {}
+            }
+        }
+    }
+}

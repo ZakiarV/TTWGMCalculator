@@ -1,0 +1,119 @@
+{
+  "ground_forces": {
+    "infantry": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "tank": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "artillery": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "mobile_sam": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "mobile_radar": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "special_forces": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "recon": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "mechanized_transport": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "engineering_corps": {
+      "cost": {},
+      "maintenance_cost": {}
+    }
+  },
+  "air_force": {
+    "radar_site": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "fighter": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "stealth_fighter": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "attack_bomber": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "heavy_bomber": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "stealth_attack_bomber": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "stealth_heavy_bomber": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "transport_plane": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "airborne_warning_and_control_system": {
+      "cost": {},
+      "maintenance_cost": {}
+    }
+  },
+  "navy": {
+    "aircraft_carrier": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "destroyer": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "attack_submarine": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "missile_submarine": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "cruiser": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "amphibious_assault_ship": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "supply_ship": {
+      "cost": {},
+      "maintenance_cost": {}
+    }
+  },
+  "logistics": {
+    "trains": {
+      "cost": {},
+      "maintenance_cost": {}
+    },
+    "trucks": {
+      "cost": {},
+      "maintenance_cost": {}
+    }
+  }
+}
+
