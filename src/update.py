@@ -21,7 +21,7 @@ def files_to_update():
 def download_files():
     try:
         with tempfile.TemporaryDirectory() as temp_dir:
-            subprocess.run(["git", "clone", "", temp_dir], check=True)
+            subprocess.run(["git", "clone", "https://github.com/ZakiarV/TTWGMCalculator.git", temp_dir], check=True)
     except subprocess.CalledProcessError as e:
         print(f"Error: {e}")
         return False
